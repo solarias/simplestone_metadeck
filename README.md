@@ -1,1 +1,1 @@
-하스스톤 메타덱 기록용 Repository
+하스스톤 메타덱 정보 저장용 Repository
